@@ -54,7 +54,8 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1600" height="849" alt="factorial" src="https://github.com/user-attachments/assets/51fa9a15-35ef-499f-b664-a4f9555a0b2c" />
+
 
 ---
 MANUAL CALCULATIONS
